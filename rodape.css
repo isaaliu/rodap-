@@ -1,0 +1,11 @@
+    footer {
+        background-color: aliceblue;
+        padding: 10px;
+        text-align: center;
+        font-size: 14px;
+        color: #482443;
+        border-top: 1px solid #482443;
+        width: 100%;
+        bottom: 0;
+        margin: 0;
+    }
